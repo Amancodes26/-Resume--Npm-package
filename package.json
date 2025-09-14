@@ -1,0 +1,27 @@
+{
+  "name": "aman-singh-2026s",
+  "version": "1.0.0",
+  "description": "My Resume as an NPM Package",
+  "main": "cli.js",
+  "type": "module",
+  "bin": {
+    "aman-singh-2026s": "cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amancodes26/-Resume--Npm-package.git"
+  },
+  "keywords": ["resume", "aman-singh", "developer"],
+  "author": "Aman Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amancodes26/-Resume--Npm-package/issues"
+  },
+  "homepage": "https://github.com/Amancodes26/-Resume--Npm-package#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
