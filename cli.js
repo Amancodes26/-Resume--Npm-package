@@ -6,8 +6,8 @@ console.clear();
 console.log(chalk.cyan.bold("\n👋 Hi, I am Aman Singh\n"));
 
 console.log(chalk.green("📧 Email:"), "amansngh8586@gmail.com");
-console.log(chalk.green("🔗 LinkedIn:"), "linkedin.com/in/aman-singh-2026s");
-console.log(chalk.green("🐙 GitHub:"), "github.com/Amancodes26");
+console.log(chalk.green("🔗 LinkedIn:"), "https://linkedin.com/in/aman-singh-2026s");
+console.log(chalk.green("🐙 GitHub:"), "https://github.com/Amancodes26");
 console.log(chalk.green("🌐 Portfolio:"), "https://devamanai.vercel.app/\n");
 
 console.log(chalk.yellow.bold("Summary:"));
